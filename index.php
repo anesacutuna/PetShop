@@ -2,7 +2,7 @@
 require 'vendor/autoload.php';
 
 Flight::route('/', function() {
-    echo "First commit";
+    echo "Second commit";
 });
 
 Flight::start();
